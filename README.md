@@ -17,6 +17,6 @@ A Python automation tool that manages student exam scores using **File Handling*
 * **File I/O Operations** (Read, Write, Append modes)
 * **String Manipulation**
 
-## 📝 Example Usage
+
 
 
