@@ -1,0 +1,3 @@
+Mehmet Elibüyük:50,12,70
+Ahmet kayserilikızı:45,55,85
+Leylek Yuvası:95,92,100
